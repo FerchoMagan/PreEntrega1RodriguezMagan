@@ -14,8 +14,8 @@ import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 
 /*no pude modificar el nombre del import avatar porque se rompe, se que aca 
-puedo poner directamente @mui/icons-material/ShoppingCart pero para cumplir con la entrega arme
-el cartWidget*/
+puedo poner directamente from "@mui/icons-material/ShoppingCart" para modificar el icono pero para cumplir con la entrega arme
+el cartWidget.jsx*/
 import Avatar from '../cartWidget/cartWidget';
 
 
